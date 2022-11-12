@@ -7,9 +7,9 @@ Linker.py
 
 Dowload and run using 
 
-`python3 linker.py`
+``python3 linker.py``
 
-Concept
+**Description**
 
 In linker you can have just one file linked in the expected place in your home or configuration directory and in 
 the dotfile's repository that you can use to backup everything in any git cloud.
@@ -22,12 +22,13 @@ You have three operations:
 
 
 Get_latest.py
+-------------
 
 Dowload and run using 
 
-`python3 get_latest.py`
+``python3 get_latest.py``
 
-Concept
+**Description**
 
 This is a simple script that you can use to download installers in your  prefered format from github releases.
 
